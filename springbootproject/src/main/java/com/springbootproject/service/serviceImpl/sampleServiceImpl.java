@@ -14,6 +14,6 @@ public class sampleServiceImpl implements sampleService {
     @Override
     public void sampleServiecFortune() {
         sampleDao.sampleDaoFortune();
-        System.out.println("hi from serviecImplClass");
+        System.out.println("Hello from serviceImplClass");
     }
 }

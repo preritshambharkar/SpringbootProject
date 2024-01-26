@@ -1,4 +1,4 @@
 package com.springbootproject.service;
 
-public interface loginServiec {
+public interface loginService {
 }
