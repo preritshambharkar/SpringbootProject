@@ -13,7 +13,7 @@ public class sampleServiceImpl implements sampleService {
 
     @Override
     public void sampleServiecFortune() {
+        System.out.println("hi from serviecImplClass");
         sampleDao.sampleDaoFortune();
-        System.out.println("Hello from serviceImplClass");
     }
 }
